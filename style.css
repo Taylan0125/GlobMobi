@@ -270,7 +270,7 @@ button {
 
 .lastpage1 {
     position: absolute;
-    top: 20%;
+    top: 200px;
     display: none;
     width: 400px;
 }
